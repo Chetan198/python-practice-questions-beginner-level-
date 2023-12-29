@@ -16,3 +16,4 @@ So ,take Apple's stock prices from yesterday and put them in a list called stock
 2.The values are the price (in US dollars) of one share of Apple stock at that time.
 
 So if the stock cost $500 at 10:30am, that means stock_prices[60] = 500.
+Link for the source of the question:https://www.interviewcake.com/question/python3/stock-price
